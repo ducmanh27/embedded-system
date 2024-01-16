@@ -1,7 +1,7 @@
 # EMBEDDED SYSTEM DESIGN
 
 ## Team Members
-1. **Le Kim Thanh**
+1. **Le Kim Thang**
    - Student ID: 20202517
    - Role: Time Model
 
